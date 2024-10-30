@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Roboto;
+  src: url(./assets/Fonts/Roboto/Roboto-Regular.ttf);
+}
+
+:root{
+  color-scheme: only light;
+}
+
+html{
+  background-color: #F1F3C1;
+  display: flex;
+  justify-content: center;
+  font-family: Roboto;
+  overflow: hidden;
+}
+
